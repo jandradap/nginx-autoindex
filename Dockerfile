@@ -5,7 +5,7 @@ ARG VCS_REF
 ARG VERSION
 LABEL org.label-schema.build-date=$BUILD_DATE \
 			org.label-schema.name="nginx-autoindex" \
-			org.label-schema.description="nginx-autoindex with autoindex on." \
+			org.label-schema.description="nginx with autoindex on." \
 			org.label-schema.url="http://andradaprieto.es" \
 			org.label-schema.vcs-ref=$VCS_REF \
 			org.label-schema.vcs-url="https://github.com/jandradap/nginx-autoindex" \
