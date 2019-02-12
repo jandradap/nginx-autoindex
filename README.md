@@ -2,7 +2,7 @@
 
 [![](https://images.microbadger.com/badges/version/jorgeandrada/nginx-autoindex.svg)](https://microbadger.com/images/jorgeandrada/nginx-autoindex "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/jorgeandrada/nginx-autoindex.svg)](https://microbadger.com/images/jorgeandrada/nginx-autoindex "Get your own image badge on microbadger.com")
 
-A branch of nginx:latest with autoindex on.
+A branch of nginx:latest with autoindex (non-root Container).
 Serves all files in `/usr/share/nginx/html`
 
 #### nginx:latest
